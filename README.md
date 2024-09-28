@@ -18,6 +18,8 @@ The aim of this project was to design a virtual healthcare system that, while no
 ![image](https://github.com/user-attachments/assets/544c9b66-debd-47a7-bc5b-442f9bfbfd59)
 
 ![image](https://github.com/user-attachments/assets/7783eb98-0039-4eb2-8543-64362c606109)
+
+
 Conclusion: 
 This particular project is a momentary display of our skills and what the virtual assistance in 
 healthcare domain using the methods of chat bot could look like. Like every other projection, 
